@@ -11776,3 +11776,12 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
+.player {
+  border-radius: 15px;
+  overflow: hidden;
+  z-index: 1;
+  height: 480px;
+  width: 640px;
+  position:relative;
+}
